@@ -1,5 +1,5 @@
 # Data Warehouse And Analytics Project
-This project has been created based on the SQL Data Warehouse from Scratch video by Data with Baraa: https://www.youtube.com/watch?v=9GVqKuTVANE
+This project has been created as part of the SQL Data Warehouse from Scratch video by Data with Baraa: https://www.youtube.com/watch?v=9GVqKuTVANE
 
 # Purpose
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project that highlights industry best practices in data engineering and analytics.
