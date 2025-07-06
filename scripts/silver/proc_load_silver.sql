@@ -171,7 +171,7 @@ BEGIN
 			gen
 		)
 		SELECT
-			cid,
+			SUBSTRING(cid, 4, LEN(cid)) AS cid,
 			CASE
 				WHEN bdate > GETDATE() THEN NULL
 				ELSE bdate
