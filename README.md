@@ -1,6 +1,6 @@
 # Data Warehouse And Analytics Project
 
-This project has been created as hands-on experience for building an SQL Data Warehouse from Scratch. This project is heavily based on the hands-on data Engineering Project shared Data with Baraa on YouTube: https://www.youtube.com/watch?v=9GVqKuTVANE
+This project has been created as hands-on experience for building an SQL Data Warehouse from Scratch. This project is heavily based on the hands-on data Engineering Project shared by Data with Baraa on YouTube: https://www.youtube.com/watch?v=9GVqKuTVANE
 
 ## Purpose
 
