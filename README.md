@@ -22,6 +22,14 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+## Outcomes
+
+- Experience gained using Notion and draw.io for documenting and tracking project work
+- Experience gained planning out a data warehouse project, designing data warehousing architecture and implementing the project tasks
+- Competency gained in creating efficient ETL processes using SQL/SSMS to transform and prepare data for consumption by end users
+- Competency gained in conducting effective data quality checking throughout the ETL development process to ensure data integrity is maintained
+- Competency gained in utilizing GitHub as a repository for data project documentation, scripts and testing
+
 ---
 
 ## License
